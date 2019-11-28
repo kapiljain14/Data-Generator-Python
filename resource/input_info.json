@@ -1,0 +1,103 @@
+{
+	"data_info": [{
+			"var_name": "emp_name",
+			"var_type": "str",
+			"var_constraint": {
+				"prefix": "Mr.",
+				"suffix": "*",
+				"min_len": 3,
+				"max_len": 10,
+				"allow_null": true,
+				"default": []
+			}
+		},
+		{
+			"var_name": "emp_company_name",
+			"var_type": "str",
+			"var_constraint": {
+				"prefix": "",
+				"suffix": "",
+				"min_len": 10,
+				"max_len": 10,
+				"allow_null": true,
+				"default": ["Google"]
+			}
+		},
+		{
+			"var_name": "emp_city",
+			"var_type": "str",
+			"var_constraint": {
+				"prefix": "",
+				"suffix": "",
+				"min_len": 10,
+				"max_len": 10,
+				"allow_null": true,
+				"default": ["india-pune", "india-hyderabaad", "india-bangalore"]
+			}
+		},
+		{
+			"var_name": "emp_id",
+			"var_type": "int",
+			"var_constraint": {
+				"start_range": 1,
+				"incremental_by": 1,
+				"end_range": 50000,
+				"default": []
+			}
+		},
+		{
+			"var_name": "emp_age",
+			"var_type": "int",
+			"var_constraint": {
+				"start_range": 20,
+				"incremental_by": 0,
+				"end_range": 100,
+				"default": []
+			}
+		},
+		{
+			"var_name": "emp_salary",
+			"var_type": "float",
+			"var_constraint": {
+				"start_range": 3,
+				"end_range": 10,
+				"precision": 3,
+				"default": []
+			}
+		},
+		{
+			"var_name": "emp_joining_date",
+			"var_type": "date",
+			"var_constraint": {
+				"start_date": "11/01/2017",
+				"end_date": "11/10/2019",
+				"date_format": "%d/%m/%Y",
+				"default": []
+			}
+		},
+		{
+			"var_name": "emp_active",
+			"var_type": "bool",
+			"var_constraint": {
+				"default": [true]
+			}
+		},
+		{
+			"var_name": "emp_last_update",
+			"var_type": "datetime",
+			"var_constraint": {
+				"start_date_time": "11/01/2017 00:00:00",
+				"end_date_time": "11/10/2019 00:00:00",
+				"date_time_format": "%d/%m/%Y %H:%M:%S",
+				"default": []
+			}
+		}
+
+	],
+	"meta_info": {
+		"no_of_rows": 100,
+		"destination_folder_path": "generate_data",
+		"output_file_name":"data_gen",
+		"format_of_gen_file": ["json", "csv", "xml"]
+	}
+}
