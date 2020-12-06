@@ -2,10 +2,10 @@
 This Application is for generating any kind of dummy/random data in csv,json,xml format.
 
 ## Benifits
-This Application is really useful for those who want to play with data without touching the actual/production data.
-This Application or utility helpful in generating any kind of data like csv,json,xml.
-We can prepare test data set using this application, which helpful in development/testing phase.
-This application is modularize you can extend as per your need.
+- This Application is really useful for those who want to play with data without touching the actual/production data.
+- This Application or utility helpful in generating any kind of data like csv,json,xml.
+- We can prepare test data set using this application, which helpful in development/testing phase.
+- This application is modularize you can extend as per your need.
 
 ## Configuration of Application
 In resource folder there is one configuation file(input_info.json).
@@ -19,7 +19,7 @@ This file having two main key:
 ## Sample Configuation Example
 ### For String Field
 ```bash
-{
+		      {
 			"var_name": "emp_name", //This field is for column name
 			"var_type": "str", //This is for defining data type like String
 			"var_constraint": {
@@ -28,7 +28,7 @@ This file having two main key:
 				"min_len": 3, //This field is for String min length
 				"max_len": 10, //This field is for String max length
 				"allow_null": true, //This field is for any null value.
-				"default": [] //Configure when you only want speicic value in generation of data instead of above
+				"default": [] //Configure when you only want specific value in generation of data instead of above
 			}
 ```
 
