@@ -70,11 +70,11 @@ This file having two main key:
 
  [sample configuration file refrence!](https://github.com/kapiljain14/Data-Generator-Python/blob/master/resource/input_info.json)
  
- ## For Code Setup:
+ ## For Code Setup
 - This project having requirment.txt, which is having all the required liberaries.
 - You can use any ide like pycharm or directly configure the requirment.txt file.
 
-## For Code Execution:
+## For Code Execution
 - First make sure about all requiremnty libraries and python3 installation.
 - Configure for the data in resource folder needs tobe setup before perior run.
 - In data_gneration module run data_gen_execute.py file for data generation.
@@ -85,8 +85,10 @@ This file having two main key:
 
 
 ## Contact
-Please write to:
-&nbsp; kapiljain14@hotmail.com
+Please write to
+
+:e-mail:
+kapiljain14@hotmail.com
 
  
  
