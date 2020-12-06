@@ -80,10 +80,13 @@ This file having two main key:
 - In data_gneration module run data_gen_execute.py file for data generation.
 
 ## Author✍
-Kapil Jain
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Kapil Jain](https://www.linkedin.com/in/kapiljain14/)
+
+
 
 ## Contact
 Please write to:
+&nbsp;
 Email : kapiljain14@hotmail.com
 
  
