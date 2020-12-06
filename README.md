@@ -86,8 +86,7 @@ This file having two main key:
 
 ## Contact
 Please write to:
-&nbsp;
-Email : kapiljain14@hotmail.com
+&nbsp; kapiljain14@hotmail.com
 
  
  
