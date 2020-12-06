@@ -68,7 +68,7 @@ This file having two main key:
 			}
 ```
 
- [sample configuration filr refrence!](https://github.com/kapiljain14/Data-Generator-Python/blob/master/resource/input_info.json)
+ [sample configuration file refrence!](https://github.com/kapiljain14/Data-Generator-Python/blob/master/resource/input_info.json)
  
  ## For Code Setup:
 - This project having requirment.txt, which is having all the required liberaries.
