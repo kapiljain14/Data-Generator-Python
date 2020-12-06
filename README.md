@@ -1,4 +1,4 @@
-# Data Generator Application/Utility In Python
+# Data :bar_chart: Generator Application/Utility In Python
 This Application is for generating any kind of dummy/random data in csv,json,xml format.
 
 ## Benifits
