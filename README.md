@@ -10,8 +10,8 @@ This Application is for generating any kind of dummy/random data in csv,json,xml
 ## Configuration of Application
 In resource folder there is one configuation file(input_info.json).
 This file having two main key:
-1. * [data_info] : This is having all fields/columns  and its value related information need to be generated.
-2. * [meta_info] : This is having informations as following:
+ * [*data_info*] : This is having all fields/columns  and its value related information need to be generated.
+ * [*meta_info*] : This is having informations as following:
               1. No. of rows
               2. data generation location.
               3. file format in which data need to be generate.
