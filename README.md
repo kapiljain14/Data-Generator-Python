@@ -68,5 +68,16 @@ This file having two main key:
 			}
 ```
 
+ [sample configuration filr refrence!](https://github.com/kapiljain14/Data-Generator-Python/blob/master/resource/input_info.json)
+ 
+ ## For Code Setup:
+- This project having requirment.txt, which is having all the required liberaries.
+- You can use any ide like pycharm or directly configure the requirment.txt file.
 
+## For Code Execution:
+- First make sure about all requiremnty libraries and python3 installation.
+- Configure for the data in resource folder needs tobe setup before perior run.
+- 
+ 
+ 
 
