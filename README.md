@@ -77,7 +77,15 @@ This file having two main key:
 ## For Code Execution:
 - First make sure about all requiremnty libraries and python3 installation.
 - Configure for the data in resource folder needs tobe setup before perior run.
-- 
+- In data_gneration module run data_gen_execute.py file for data generation.
+
+## Author✍
+Kapil Jain
+
+## Contact
+Please write to:
+Email : kapiljain14@hotmail.com
+
  
  
 
